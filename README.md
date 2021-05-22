@@ -1,9 +1,11 @@
 # fevoChallenge
 
 Prerequisites:
+
 This project is created using Python.
 
-Python 3.8 or higher versions
+Python 3.8 or higher versions.
+
 Make sure you have pip installed. Check if installed already using this command : python -m pip --version
 
 If not installed, go to the website :https://pip.pypa.io/en/stable/installing/ and follow the instructions
