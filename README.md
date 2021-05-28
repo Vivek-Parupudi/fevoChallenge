@@ -16,6 +16,7 @@ If not installed, go to the website: https://pip.pypa.io/en/stable/installing/ a
 2. Go to the project folder and run the command pip install -r requirements.txt
 3. This ensures all requirements are installed
 4. To see the output, run the following command from the same directory (which contains main.py)
+   
    python main.py
 
 
