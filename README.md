@@ -12,6 +12,10 @@ Make sure you have pip installed. Check if installed already using this command 
 
 If not installed, go to the website: https://pip.pypa.io/en/stable/installing/ and follow the instructions
 
+# Project structure:
+
+The code is run from main.py which displays the desired output. The API design is in the challenge package and the tests package contains the unit testing files.
+
 # Instructions to run the code:
 
 1. Download the project folder
